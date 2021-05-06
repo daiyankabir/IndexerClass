@@ -1,0 +1,6 @@
+C:\Users\Zahid\Desktop\New folder\DemoApplication\IndexerClass\IndexerClass\bin\Debug\IndexerClass.exe.config
+C:\Users\Zahid\Desktop\New folder\DemoApplication\IndexerClass\IndexerClass\obj\Debug\IndexerClass.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\Desktop\New folder\DemoApplication\IndexerClass\IndexerClass\bin\Debug\IndexerClass.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\IndexerClass\IndexerClass\bin\Debug\IndexerClass.pdb
+C:\Users\Zahid\Desktop\New folder\DemoApplication\IndexerClass\IndexerClass\obj\Debug\IndexerClass.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\IndexerClass\IndexerClass\obj\Debug\IndexerClass.pdb
